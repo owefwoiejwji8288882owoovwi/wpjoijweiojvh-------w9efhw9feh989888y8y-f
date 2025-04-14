@@ -7,5 +7,6 @@ return {
 "DE41472F-366D-4517-A936-FA3BFC0D2ACA", -- 1 month expire at 8 / 5 / 2025 Lambo aka realbluekid
 "0609EDC6-8E3B-4820-871C-F4BEB3F36353", -- 2 months expire at 9 / 6 / 2025 tutoniiii
 "2356cffa-7783-4735-b4ad-2f3e9993d8ca", -- 2 months expire at 10 / 6 / 2025 ungurded_nbaplayer
-"121db050-f9ec-4c7a-8600-18ab1aa8b6a5" -- 1 month expire at 12 / 5 / 2025 INJIMA2992
+"121db050-f9ec-4c7a-8600-18ab1aa8b6a5", -- 1 month expire at 12 / 5 / 2025 INJIMA2992
+"d5cf6a8a-073b-4785-a649-387963efd6af" --test only
 }
